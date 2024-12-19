@@ -3,4 +3,4 @@ a = "I am John" +
 console.log(a)
 
 a = 0
-a > 1 ? console.log(`Hello`) : console.log(`hy`)
+a > 1 ? console.log(`Hello`) : console.log(`hy`);
